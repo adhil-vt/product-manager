@@ -1,0 +1,25 @@
+# Virtual environment
+app/
+
+# Django local database & cache
+db.sqlite3
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node dependencies and build artifacts
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
